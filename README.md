@@ -8,7 +8,8 @@ Instructions:
 3) make changes (add an extra line somewhere in the code, or add more).
 4) commit code
 5) push your commits to repo
-6) merge code to main
-7) fix any problems
+6) create a pull request
+7) merge code to main
+8) fix any problems
 
 Don't worry about messing the code up. It is all sample code. The important thing is to learn how to deal with merges.
