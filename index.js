@@ -1,17 +1,18 @@
 function getRandomNumber() {
-  var randomNum = Math.floor(Math.random() * 100);
-  document.getElementById("randomNum").innerHTML = randomNum;
+  var randomNum = Math.floor(Math.random() * 100)
+  document.getElementById("randomNum").innerHTML = randomNum
 }
 
 //List of names
-let listOfNames = ["Tim", "Lawrence", "Monica"];
+let listOfNames = ["Tim", "Lawrence", "Monica"]
 
-const list = document.getElementById("names");
-console.log(list);
+const list = document.getElementById("names")
+console.log(list)
 
-const entry = document.createElement("li");
-console.log(entry);
+const entry = document.createElement("li")
+console.log(entry)
 
-entry.appendChild(document.createTextNode(listOfNames));
-list.appendChild(entry);
-//Monica
+entry.appendChild(document.createTextNode(listOfNames))
+list.appendChild(entry)
+//marissa's conflict
+
