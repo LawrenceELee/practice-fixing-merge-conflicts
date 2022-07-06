@@ -1,4 +1,4 @@
-// 1) git pull to get most recent code 2) change this comment to have your name 3) create pull request, but don't merge it yet. 4) get a merge conflict when other people do the same change on line 1.
+// Lawrence
 function getRandomNumber() {
   var randomNum = Math.floor(Math.random() * 100)
   document.getElementById("randomNum").innerHTML = randomNum
