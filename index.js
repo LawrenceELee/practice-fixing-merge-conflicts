@@ -5,7 +5,7 @@ function getRandomNumber() {
 }
 
 //List of names
-let listOfNames = ["Tim", "Lawrence", "Monica"]
+let listOfNames = ["Tim", " Lawrence", " Monica", " Asaia"]
 
 const list = document.getElementById("names")
 console.log(list)
