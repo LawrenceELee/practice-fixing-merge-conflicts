@@ -1,4 +1,5 @@
-// Lawrence
+//marissa's conflict 2
+
 function getRandomNumber() {
   var randomNum = Math.floor(Math.random() * 100)
   document.getElementById("randomNum").innerHTML = randomNum
@@ -16,4 +17,3 @@ console.log(entry)
 entry.appendChild(document.createTextNode(listOfNames))
 list.appendChild(entry)
 //marissa's conflict
-
