@@ -1,4 +1,4 @@
-//marissa's conflict 2
+// hey hey. asaia here
 
 function getRandomNumber() {
   var randomNum = Math.floor(Math.random() * 100)
