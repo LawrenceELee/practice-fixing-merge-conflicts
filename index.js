@@ -1,3 +1,4 @@
+
 /*
 This
 is 
@@ -5,13 +6,18 @@ a
 long 
 comment
 */
+// hey hey. asaia here
+
+
 function getRandomNumber() {
   var randomNum = Math.floor(Math.random() * 100);
   document.getElementById("randomNum").innerHTML = randomNum;
 }
 
 //List of names
+
 let listOfNames = ["Tim", "Lawrence", "Monica"];
+let listOfNames = ["Tim", " Lawrence", " Monica", " Asaia"]
 
 const list = document.getElementById("names");
 console.log(list);
