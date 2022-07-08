@@ -10,6 +10,13 @@ function getRandomNumber() {
   document.getElementById("randomNum").innerHTML = randomNum;
 }
 
+/*
+a
+b
+c
+d
+*/
+
 //List of names
 let listOfNames = ["Tim", "Lawrence", "Monica"];
 
